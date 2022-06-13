@@ -10,7 +10,7 @@ servers:
   - url: 'http://localhost:3000'
 paths:
   /api:
-    get:
+    post:
       summary: 'api'
       x-microcks-dispatcher: URI_PARAMS
       x-microcks-dispatcherRules: method
