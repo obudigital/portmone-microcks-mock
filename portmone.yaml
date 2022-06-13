@@ -9,22 +9,6 @@ info:
 servers:
   - url: 'http://localhost:3000'
 paths:
-  '/users/{userId}':
-    parameters:
-      - schema:
-          type: integer
-        name: userId
-        in: path
-        required: true
-        description: Id of an existing user.
-  '/users/{userId} - copy':
-    parameters:
-      - schema:
-          type: integer
-        name: userId
-        in: path
-        required: true
-        description: Id of an existing user.
   /api:
     parameters: []
     post:
@@ -43,7 +27,7 @@ paths:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="fail">
-                        <error code="Код помилки">Опис помилки</error>
+                        <error code="Код помилки">Опис помилки 12345</error>
                     </rsp>
       parameters:
         - schema:
