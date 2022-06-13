@@ -29,7 +29,7 @@ paths:
                     <rsp status="fail">
                         <error code="Код помилки">Опис помилки 12345 123</error>
                     </rsp>
-                example-1:
+                example-2:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="fail">
