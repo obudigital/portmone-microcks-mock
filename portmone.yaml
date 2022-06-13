@@ -41,11 +41,6 @@ paths:
           in: header
           name: Content-Type
           description: application/x-www-form-urlencoded
-        - schema:
-            type: string
-          in: query
-          name: method
-          required: true
 components:
   schemas: {}
 
