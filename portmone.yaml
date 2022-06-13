@@ -10,7 +10,6 @@ servers:
   - url: 'http://localhost:3000'
 paths:
   /api:
-    parameters: []
     get:
       summary: 'api'
       x-microcks-dispatcher: URI_PARAMS
@@ -21,9 +20,6 @@ paths:
           description: ''
           content:
             application/xml:
-              schema:
-                type: object
-                properties: {}
               examples:
                 example-1:
                   value: |-
