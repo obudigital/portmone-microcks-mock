@@ -27,7 +27,7 @@ paths:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="fail">
-                        <error code="Код помилки">Опис помилки 12345 123</error>
+                        <error code="Код помилки">Опис помилки 123</error>
                     </rsp>
                 example-2:
                   value: |-
@@ -41,5 +41,11 @@ paths:
           in: header
           name: Content-Type
           description: application/x-www-form-urlencoded
+        - schema:
+            type: string
+          in: query
+          name: method
+          required: true
 components:
   schemas: {}
+
