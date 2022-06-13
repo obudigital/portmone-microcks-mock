@@ -1,0 +1,55 @@
+openapi: 3.1.0
+x-stoplight:
+  id: i9mp04xl94sy9
+info:
+  title: portmone-direct
+  version: '1.0'
+  description: ''
+  summary: portmone direct api
+servers:
+  - url: 'http://localhost:3000'
+paths:
+  '/users/{userId}':
+    parameters:
+      - schema:
+          type: integer
+        name: userId
+        in: path
+        required: true
+        description: Id of an existing user.
+  '/users/{userId} - copy':
+    parameters:
+      - schema:
+          type: integer
+        name: userId
+        in: path
+        required: true
+        description: Id of an existing user.
+  /api:
+    parameters: []
+    post:
+      summary: ''
+      operationId: post-api
+      responses:
+        '200':
+          description: ''
+          content:
+            application/xml:
+              schema:
+                type: object
+                properties: {}
+              examples:
+                example-1:
+                  value: |-
+                    <?xml version="1.0" encoding="utf-8"?>
+                    <rsp status="fail">
+                        <error code="Код помилки">Опис помилки</error>
+                    </rsp>
+      parameters:
+        - schema:
+            type: string
+          in: header
+          name: Content-Type
+          description: application/x-www-form-urlencoded
+components:
+  schemas: {}
