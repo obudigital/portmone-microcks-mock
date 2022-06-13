@@ -11,7 +11,7 @@ servers:
 paths:
   /api:
     parameters: []
-    post:
+    get:
       summary: ''
       operationId: post-api
       responses:
