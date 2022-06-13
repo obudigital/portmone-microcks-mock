@@ -12,7 +12,9 @@ paths:
   /api:
     parameters: []
     get:
-      summary: ''
+      summary: 'api'
+      x-microcks-dispatcher: URI_PARAMS
+      x-microcks-dispatcherRules: method
       operationId: post-api
       responses:
         '200':
