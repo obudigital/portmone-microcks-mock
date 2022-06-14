@@ -44,11 +44,3 @@ paths:
                     <rsp status="fail">
                         <error code="Код помилки">456789</error>
                     </rsp>
-      parameters:
-        - schema:
-            type: string
-          in: header
-          name: Content-Type
-          description: application/x-www-form-urlencoded
-components:
-  schemas: {}
