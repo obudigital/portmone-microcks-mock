@@ -17,10 +17,10 @@ paths:
       operationId: post-api
       parameters:
         - examples:
-            example1:
-              value: example1
-            example2:
-              value: example2
+            bills.createByPhone:
+              value: bills.createByPhone
+            bills.pay:
+              value: bills.pay
           name: method
           schema:
             type: string
@@ -32,13 +32,13 @@ paths:
           content:
             application/xml:
               examples:
-                example1:
+                bills.createByPhone:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="fail">
                         <error code="Код помилки">Опис помилки 123</error>
                     </rsp>
-                example2:
+                bills.pay:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="fail">
