@@ -21,6 +21,8 @@ paths:
               value: bills.createByPhone
             bills.pay:
               value: bills.pay
+            bills.get:
+              value: bills.get         
           name: method
           schema:
             type: string
@@ -67,3 +69,10 @@ paths:
                     <rsp status="fail">
                         <error code="Код помилки">456gdg gdfg 789</error>
                     </rsp>
+                bills.get:
+                  value: |-
+                    <?xml version="1.0" encoding="utf-8"?>
+                    <rsp status="fail">
+                        <error code="Код помилки">4errorg 789</error>
+                    </rsp>
+                
