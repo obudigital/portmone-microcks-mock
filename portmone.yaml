@@ -15,6 +15,17 @@ paths:
       x-microcks-dispatcher: URI_PARAMS
       x-microcks-dispatcherRules: method
       operationId: post-api
+      parameters:
+        - examples:
+            example1:
+              value: example1
+            example2:
+              value: example2
+          name: method
+          schema:
+            type: string
+          in: query
+          required: true
       responses:
         '200':
           description: ''
@@ -41,4 +52,3 @@ paths:
           description: application/x-www-form-urlencoded
 components:
   schemas: {}
-
