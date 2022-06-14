@@ -36,7 +36,7 @@ paths:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="fail">
-                        <error code="Код помилки">Опис помилки 123</error>
+                        <error code="Код помилки">Опис помилки 12542352gdg 345rg 3</error>
                     </rsp>
                 bills.pay:
                   value: |-
