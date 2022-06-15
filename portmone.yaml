@@ -67,7 +67,7 @@ paths:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="fail">
-                        <error code="Код помилки">456gdg gdfg 789</error>
+                        <error code="Код помилки">p004</error>
                     </rsp>
                 bills.get:
                   value: |-
