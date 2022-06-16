@@ -89,7 +89,7 @@ paths:
                             <amount>100.00</amount>
                             <debt>0.00</debt>
                             <sum>100.00</sum>
-                            <status>CANCELED</status>
+                            <status>canceled</status>
                             <paidAmount />
                             <payDate />
                             <payee_export_flag />
