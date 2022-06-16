@@ -71,7 +71,7 @@ paths:
                     </rsp>
                 bills.get:
                   value: |-
-                    <?xml version="1.0" encoding="utf-8"?>
+                  <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="ok">
                         <bill id="1191116006">
                             <payee id="2065">Київстар</payee>
@@ -89,7 +89,7 @@ paths:
                             <amount>100.00</amount>
                             <debt>0.00</debt>
                             <sum>100.00</sum>
-                            <status>canceled</status>
+                            <status>RETURN</status>
                             <paidAmount />
                             <payDate />
                             <payee_export_flag />
