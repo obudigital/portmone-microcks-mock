@@ -67,7 +67,7 @@ paths:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="fail">
-                        <error code="Код помилки">456gdg gdfg 789</error>
+                        <error code="p004">Помилка при оновленні параметрів лічильника</error>
                     </rsp>
                 bills.get:
                   value: |-
