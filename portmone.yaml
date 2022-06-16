@@ -72,7 +72,7 @@ paths:
                 bills.get:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
-                    <rsp status="fail">
+                    <rsp status="ok">
                         <bill id="1191116006">
                             <payee id="2065">Київстар</payee>
                             <contractNumber title="Номер телефону (без +380) ">673334411</contractNumber>
