@@ -22,7 +22,9 @@ paths:
             bills.pay:
               value: bills.pay
             bills.get:
-              value: bills.get         
+              value: bills.get
+            bills.date:
+              value: bills.date
           name: method
           schema:
             type: string
@@ -97,4 +99,49 @@ paths:
                             <transaction_id />
                             <payment_point />
                         </bill>
+                    </rsp>
+                bills.date:
+                  value: |-
+                    <?xml version="1.0" encoding="utf-8"?>
+                    <rsp status="ok">
+                        <bills>
+                            <bill id="1194242601">
+                                <name>Київстар</name>
+                                <contractNumber title="Номер телефону (без +380) ">673334411</contractNumber>
+                                <attribute1 />
+                                <bill_attribute1 />
+                                <attribute2 title="Номер квитанцii Київстар"></attribute2>
+                                <bill_attribute2 />
+                                <attribute3 />
+                                <bill_attribute3 />
+                                <attribute4 />
+                                <bill_attribute4 />
+                                <status>PAYED</status>
+                                <paidAmount>100.00</paidAmount>
+                                <payDate>21.06.2022 16:29:41</payDate>
+                                <transaction_id />
+                                <payee_export_date />
+                                <payee_export_flag>N</payee_export_flag>
+                                <bank_commission>-0.50</bank_commission>
+                            </bill>
+                            <bill id="1194242916">
+                                <name>Київстар</name>
+                                <contractNumber title="Номер телефону (без +380) ">673334411</contractNumber>
+                                <attribute1 />
+                                <bill_attribute1 />
+                                <attribute2 title="Номер квитанцii Київстар"></attribute2>
+                                <bill_attribute2 />
+                                <attribute3 />
+                                <bill_attribute3 />
+                                <attribute4 />
+                                <bill_attribute4 />
+                                <status>PAYED</status>
+                                <paidAmount>100.00</paidAmount>
+                                <payDate>21.06.2022 16:30:35</payDate>
+                                <transaction_id />
+                                <payee_export_date />
+                                <payee_export_flag>N</payee_export_flag>
+                                <bank_commission>-0.50</bank_commission>
+                            </bill>
+                        </bills>
                     </rsp>
