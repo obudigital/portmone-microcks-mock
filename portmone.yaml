@@ -126,7 +126,7 @@ paths:
                                 <payee_export_flag>Y</payee_export_flag>
                                 <bank_commission>-0.50</bank_commission>
                             </bill>
-                            <bill id="1194242916">
+                            <bill id="1194226153">
                                 <name>Київстар</name>
                                 <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
                                 <attribute1 />
