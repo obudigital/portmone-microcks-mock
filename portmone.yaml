@@ -25,6 +25,8 @@ paths:
               value: bills.get
             bills.date:
               value: bills.date
+            bills.paymentOrder:
+              value: bills.paymentOrder
           name: method
           schema:
             type: string
@@ -121,7 +123,7 @@ paths:
                                 <payDate>21.06.2022 16:29:41</payDate>
                                 <transaction_id />
                                 <payee_export_date />
-                                <payee_export_flag>N</payee_export_flag>
+                                <payee_export_flag>Y</payee_export_flag>
                                 <bank_commission>-0.50</bank_commission>
                             </bill>
                             <bill id="1194242916">
@@ -144,4 +146,12 @@ paths:
                                 <bank_commission>-0.50</bank_commission>
                             </bill>
                         </bills>
+                    </rsp>
+                bills.paymentOrder:
+                  value: |-
+                    <?xml version="1.0" encoding="utf-8"?>" +
+                    <rsp status="ok">
+                        <paymentOrder>
+                            <record id="1574526"/>
+                        </paymentOrder>
                     </rsp>
