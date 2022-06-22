@@ -149,9 +149,9 @@ paths:
                     </rsp>
                 bills.paymentOrder:
                   value: |-
-                    <?xml version="1.0" encoding="utf-8"?>"
+                    <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="ok">
                         <paymentOrder>
-                            <record id="1574526"/>
+                            <record id="1645849"/>
                         </paymentOrder>
                     </rsp>
