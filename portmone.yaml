@@ -541,7 +541,7 @@ paths:
                                 <payDate>21.06.2022 16:30:35</payDate>
                                 <transaction_id />
                                 <payee_export_date />
-                                <payee_export_flag>N</payee_export_flag>
+                                <payee_export_flag>Y</payee_export_flag>
                                 <bank_commission>-0.50</bank_commission>
                             </bill>
                         </bills>
