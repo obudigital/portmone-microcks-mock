@@ -57,7 +57,7 @@ paths:
                             <description>Рахунок створений автоматично для поповнення балансу</description>
                             <amount>100001.00</amount>
                             <debt>0.00</debt>
-                            <sum>100001.00</sum>
+                            <sum>133.00</sum>
                             <status>created</status>
                             <paidAmount />
                             <payDate />
@@ -88,7 +88,7 @@ paths:
                                 <debt>0.00</debt>
                                 <sum>0.00</sum>
                                 <status>created</status>
-                                <paidAmount>100001.00</paidAmount>
+                                <paidAmount>133.00</paidAmount>
                                 <payDate>04.07.2022 09:49:29</payDate>
                                 <payee_export_flag>Y</payee_export_flag>
                                 <auth_code />
@@ -113,7 +113,7 @@ paths:
                             <bill_attribute4 />
                             <date>04.07.2022</date>
                             <description>Рахунок створений автоматично для поповнення балансу</description>
-                            <amount>100001.00</amount>
+                            <amount>133.00</amount>
                             <debt>0.00</debt>
                             <sum>100001.00</sum>
                             <status>PAYED</status>
