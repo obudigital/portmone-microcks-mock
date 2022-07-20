@@ -70,39 +70,16 @@ paths:
                 bills.pay:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
-                    <rsp status="ok">
-                        <bill id="1234567890">
-                                <payee id="1755">Київстар</payee>
-                                <contractNumber title="Номер телефону (без +380) ">0632452422</contractNumber>
-                                <attribute1 />
-                                <bill_attribute1 />
-                                <attribute2 title="Номер квитанцii Київстар"></attribute2>
-                                <bill_attribute2 />
-                                <attribute3 />
-                                <bill_attribute3 />
-                                <attribute4 />
-                                <bill_attribute4 />
-                                <date>04.07.2022</date>
-                                <description>Рахунок створений автоматично для поповнення балансу</description>
-                                <amount>0.00</amount>
-                                <debt>0.00</debt>
-                                <sum>0.00</sum>
-                                <status>created</status>
-                                <paidAmount>133.00</paidAmount>
-                                <payDate>04.07.2022 09:49:29</payDate>
-                                <payee_export_flag>Y</payee_export_flag>
-                                <auth_code />
-                                <transaction_id />
-                                <payment_point />
-                        </bill>
+                    <rsp status="fail">
+                        <error code="p004">Помилка при оновленні параметрів лічильника</error>
                     </rsp>
                 bills.get:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="ok">
-                        <bill id="1234567890">
-                            <payee id="1755">Київстар</payee>
-                            <contractNumber title="Номер телефону (без +380) ">0632452422</contractNumber>
+                        <bill id="11223344">
+                            <payee id="2065">Київстар</payee>
+                            <contractNumber title="Номер телефону (без +380) ">673334411</contractNumber>
                             <attribute1 />
                             <attribute2 title="Номер квитанцii Київстар"></attribute2>
                             <attribute3 />
@@ -111,12 +88,12 @@ paths:
                             <bill_attribute2 />
                             <bill_attribute3 />
                             <bill_attribute4 />
-                            <date>04.07.2022</date>
+                            <date>19.07.2022</date>
                             <description>Рахунок створений автоматично для поповнення балансу</description>
-                            <amount>133.00</amount>
+                            <amount>100.00</amount>
                             <debt>0.00</debt>
-                            <sum>133.00</sum>
-                            <status>PAYED</status>
+                            <sum>100.00</sum>
+                            <status>canceled</status>
                             <paidAmount />
                             <payDate />
                             <payee_export_flag />
