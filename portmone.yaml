@@ -42,9 +42,9 @@ paths:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="ok">
-                        <bill id="1234567890">
-                            <payee id="1755">Київстар</payee>
-                            <contractNumber title="Номер телефону (без +380) ">0632452422</contractNumber>
+                        <bill id="1191116111">
+                            <payee id="2065">Київстар</payee>
+                            <contractNumber title="Номер телефону (без +380) ">673334411</contractNumber>
                             <attribute1 />
                             <attribute2 title="Номер квитанцii Київстар"></attribute2>
                             <attribute3 />
@@ -53,11 +53,11 @@ paths:
                             <bill_attribute2 />
                             <bill_attribute3 />
                             <bill_attribute4 />
-                            <date>04.07.2022</date>
+                            <date>19.07.2022</date>
                             <description>Рахунок створений автоматично для поповнення балансу</description>
-                            <amount>133.00</amount>
+                            <amount>111.00</amount>
                             <debt>0.00</debt>
-                            <sum>133.00</sum>
+                            <sum>111.00</sum>
                             <status>created</status>
                             <paidAmount />
                             <payDate />
@@ -77,7 +77,7 @@ paths:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="ok">
-                        <bill id="11223344">
+                        <bill id="1191116111">
                             <payee id="2065">Київстар</payee>
                             <contractNumber title="Номер телефону (без +380) ">673334411</contractNumber>
                             <attribute1 />
@@ -88,12 +88,12 @@ paths:
                             <bill_attribute2 />
                             <bill_attribute3 />
                             <bill_attribute4 />
-                            <date>19.07.2022</date>
+                            <date>14.06.2022</date>
                             <description>Рахунок створений автоматично для поповнення балансу</description>
                             <amount>100.00</amount>
                             <debt>0.00</debt>
                             <sum>100.00</sum>
-                            <status>canceled</status>
+                            <status>PAYED</status>
                             <paidAmount />
                             <payDate />
                             <payee_export_flag />
