@@ -42,7 +42,7 @@ paths:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="ok">
-                        <bill id="1191116112">
+                        <bill id="1191116113">
                             <payee id="2065">Київстар</payee>
                             <contractNumber title="Номер телефону (без +380) ">673334411</contractNumber>
                             <attribute1 />
@@ -76,8 +76,8 @@ paths:
                 bills.get:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
-                    <rsp status="ok">
-                        <bill id="1191116112">
+                    <rsp status="fail">
+                        <bill id="1191116113">
                             <payee id="2065">Київстар</payee>
                             <contractNumber title="Номер телефону (без +380) ">673334411</contractNumber>
                             <attribute1 />
