@@ -107,7 +107,7 @@ paths:
                     <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="ok">
                         <bills>
-                            <bill id="1232855485">
+                            <bill id="1234634278">
                                 <name>Київстар</name>
                                 <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
                                 <attribute1 />
@@ -126,7 +126,7 @@ paths:
                                 <payee_export_flag>Y</payee_export_flag>
                                 <bank_commission>-0.50</bank_commission>
                             </bill>
-                            <bill id="1232853733">
+                            <bill id="1234653267">
                                 <name>Київстар</name>
                                 <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
                                 <attribute1 />
@@ -145,7 +145,7 @@ paths:
                                 <payee_export_flag>Y</payee_export_flag>
                                 <bank_commission>-0.50</bank_commission>
                             </bill>
-                            <bill id="1232853615">
+                            <bill id="1234511431">
                                 <name>Київстар</name>
                                 <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
                                 <attribute1 />
@@ -164,7 +164,7 @@ paths:
                                 <payee_export_flag>Y</payee_export_flag>
                                 <bank_commission>-0.50</bank_commission>
                             </bill>
-                            <bill id="1232853878">
+                            <bill id="1234764545">
                                 <name>Київстар</name>
                                 <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
                                 <attribute1 />
