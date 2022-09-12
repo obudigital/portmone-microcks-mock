@@ -70,8 +70,26 @@ paths:
                 bills.pay:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
-                    <rsp status="fail">
-                        <error code="p004">Помилка при оновленні параметрів лічильника</error>
+                    <rsp status="ok">
+                            <bill id="1191116117">
+                                <name>Київстар</name>
+                                <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
+                                <attribute1 />
+                                <bill_attribute1 />
+                                <attribute2 title="Номер квитанцii Київстар"></attribute2>
+                                <bill_attribute2 />
+                                <attribute3 />
+                                <bill_attribute3 />
+                                <attribute4 />
+                                <bill_attribute4 />
+                                <status>PAYED</status>
+                                <paidAmount>153.00</paidAmount>
+                                <payDate>12.09.2022 16:29:41</payDate>
+                                <transaction_id />
+                                <payee_export_date />
+                                <payee_export_flag>Y</payee_export_flag>
+                                <bank_commission>-0.50</bank_commission>
+                            </bill>
                     </rsp>
                 bills.get:
                   value: |-
