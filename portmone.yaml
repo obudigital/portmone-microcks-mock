@@ -88,12 +88,12 @@ paths:
                             <bill_attribute2 />
                             <bill_attribute3 />
                             <bill_attribute4 />
-                            <date>14.06.2022</date>
+                            <date>19.07.2022</date>
                             <description>Рахунок створений автоматично для поповнення балансу</description>
-                            <amount>100.00</amount>
+                            <amount>111.00</amount>
                             <debt>0.00</debt>
-                            <sum>100.00</sum>
-                            <status>canceled</status>
+                            <sum>111.00</sum>
+                            <status>created</status>
                             <paidAmount />
                             <payDate />
                             <payee_export_flag />
