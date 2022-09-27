@@ -42,7 +42,7 @@ paths:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="ok">
-                        <bill id="1191116117">
+                        <bill id="1191116500">
                             <payee id="2065">Київстар</payee>
                             <contractNumber title="Номер телефону (без +380) ">673334411</contractNumber>
                             <attribute1 />
@@ -55,9 +55,9 @@ paths:
                             <bill_attribute4 />
                             <date>19.07.2022</date>
                             <description>Рахунок створений автоматично для поповнення балансу</description>
-                            <amount>111.00</amount>
+                            <amount>105.00</amount>
                             <debt>0.00</debt>
-                            <sum>111.00</sum>
+                            <sum>105.00</sum>
                             <status>created</status>
                             <paidAmount />
                             <payDate />
@@ -71,12 +71,12 @@ paths:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="ok">
-                            <bill id="1191116117">
+                            <bill id="1191116500">
                                 <name>Київстар</name>
-                                <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
+                                <contractNumber title="Номер телефону (без +380) ">964332082</contractNumber>
                                 <attribute1 />
                                 <bill_attribute1 />
-                                <attribute2 title="Номер квитанцii Київстар"></attribute2>
+                                <attribute2 title="Номер квитанцiї Київстар"></attribute2>
                                 <bill_attribute2 />
                                 <attribute3 />
                                 <bill_attribute3 />
@@ -84,7 +84,7 @@ paths:
                                 <bill_attribute4 />
                                 <status>PAYED</status>
                                 <paidAmount>153.00</paidAmount>
-                                <payDate>12.09.2022 16:29:41</payDate>
+                                <payDate>27.09.2022 10:29:41</payDate>
                                 <transaction_id />
                                 <payee_export_date />
                                 <payee_export_flag>Y</payee_export_flag>
@@ -95,9 +95,9 @@ paths:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="ok">
-                            <bill id="1191116117">
+                            <bill id="1191116500">
                                 <name>Київстар</name>
-                                <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
+                                <contractNumber title="Номер телефону (без +380) ">964332082</contractNumber>
                                 <attribute1 />
                                 <bill_attribute1 />
                                 <attribute2 title="Номер квитанцii Київстар"></attribute2>
@@ -106,7 +106,7 @@ paths:
                                 <bill_attribute3 />
                                 <attribute4 />
                                 <bill_attribute4 />
-                                <status>PAYED</status>
+                                <status>created</status>
                                 <paidAmount>153.00</paidAmount>
                                 <payDate>12.09.2022 16:29:41</payDate>
                                 <transaction_id />
