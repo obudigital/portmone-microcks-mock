@@ -106,7 +106,7 @@ paths:
                                 <bill_attribute3 />
                                 <attribute4 />
                                 <bill_attribute4 />
-                                <status>canceled</status>
+                                <status>RETURN</status>
                                 <paidAmount>153.00</paidAmount>
                                 <payDate>12.09.2022 16:29:41</payDate>
                                 <transaction_id />
