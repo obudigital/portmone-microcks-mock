@@ -121,7 +121,6 @@ paths:
                                 <payee_export_flag>Y</payee_export_flag>
                                 <bank_commission>-0.50</bank_commission>
                             </bill>
-                        <bills>
                             <bill id="1256331974">
                                 <name>Київстар</name>
                                 <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
@@ -141,7 +140,6 @@ paths:
                                 <payee_export_flag>Y</payee_export_flag>
                                 <bank_commission>-0.50</bank_commission>
                             </bill>
-                        <bills>
                             <bill id="1256289172">
                                 <name>Київстар</name>
                                 <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
