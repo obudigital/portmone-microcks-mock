@@ -177,8 +177,7 @@ paths:
                                 <payee_export_date />
                                 <payee_export_flag>B</payee_export_flag>
                                 <bank_commission>-0.50</bank_commission>
-                            </bill>
-                        </bills>                            
+                            </bill>                            
                         <bill id="1256196802">
                                 <name>Київстар</name>
                                 <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
@@ -197,8 +196,7 @@ paths:
                                 <payee_export_date />
                                 <payee_export_flag>R</payee_export_flag>
                                 <bank_commission>-0.50</bank_commission>
-                            </bill>
-                        </bills>                            
+                            </bill>                          
                         <bill id="1256199946">
                                 <name>Київстар</name>
                                 <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
@@ -217,8 +215,7 @@ paths:
                                 <payee_export_date />
                                 <payee_export_flag>E</payee_export_flag>
                                 <bank_commission>-0.50</bank_commission>
-                            </bill>
-                        </bills>                            
+                            </bill>                           
                         <bill id="1256203326">
                                 <name>Київстар</name>
                                 <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
