@@ -208,7 +208,7 @@ paths:
                                 <bill_attribute3 />
                                 <attribute4 />
                                 <bill_attribute4 />
-                                <status>created</status>
+                                <status>PAYED</status>
                                 <paidAmount>100.00</paidAmount>
                                 <payDate>21.06.2022 16:30:35</payDate>
                                 <transaction_id />
@@ -227,7 +227,7 @@ paths:
                                 <bill_attribute3 />
                                 <attribute4 />
                                 <bill_attribute4 />
-                                <status>canceled</status>
+                                <status>PAYED</status>
                                 <paidAmount>100.00</paidAmount>
                                 <payDate>21.06.2022 16:30:35</payDate>
                                 <transaction_id />
