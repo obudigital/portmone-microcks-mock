@@ -102,7 +102,7 @@ paths:
                     <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="ok">
                         <bills>
-                            <bill id="1268539779">
+                            <bill id="1271121367">
                                 <name>Київстар</name>
                                 <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
                                 <attribute1 />
@@ -121,7 +121,7 @@ paths:
                                 <payee_export_flag>E</payee_export_flag>
                                 <bank_commission>-0.50</bank_commission>
                             </bill>
-                            <bill id="1268540830">
+                            <bill id="1281570816">
                                 <name>Київстар</name>
                                 <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
                                 <attribute1 />
@@ -140,7 +140,7 @@ paths:
                                 <payee_export_flag>N</payee_export_flag>
                                 <bank_commission>-0.50</bank_commission>
                             </bill>
-                            <bill id="1268583426">
+                            <bill id="1281571412">
                                 <name>Київстар</name>
                                 <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
                                 <attribute1 />
@@ -159,7 +159,7 @@ paths:
                                 <payee_export_flag>Y</payee_export_flag>
                                 <bank_commission>-0.50</bank_commission>
                             </bill>
-                            <bill id="1269134052">
+                            <bill id="1281571527">
                                 <name>Київстар</name>
                                 <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
                                 <attribute1 />
@@ -178,7 +178,7 @@ paths:
                                 <payee_export_flag>R</payee_export_flag>
                                 <bank_commission>-0.50</bank_commission>
                             </bill>
-                            <bill id="1269133413">
+                            <bill id="1275936059">
                                 <name>Київстар</name>
                                 <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
                                 <attribute1 />
@@ -197,7 +197,7 @@ paths:
                                 <payee_export_flag>Y</payee_export_flag>
                                 <bank_commission>-0.50</bank_commission>
                             </bill>
-                            <bill id="1269136058">
+                            <bill id="1274172102">
                                 <name>Київстар</name>
                                 <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
                                 <attribute1 />
@@ -216,7 +216,7 @@ paths:
                                 <payee_export_flag>O</payee_export_flag>
                                 <bank_commission>-0.50</bank_commission>
                             </bill>                            
-                        <bill id="1269135850">
+                        <bill id="1274172353">
                                 <name>Київстар</name>
                                 <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
                                 <attribute1 />
@@ -228,6 +228,158 @@ paths:
                                 <attribute4 />
                                 <bill_attribute4 />
                                 <status>canceled</status>
+                                <paidAmount>100.00</paidAmount>
+                                <payDate>21.06.2022 16:30:35</payDate>
+                                <transaction_id />
+                                <payee_export_date />
+                                <payee_export_flag>12345</payee_export_flag>
+                                <bank_commission>-0.50</bank_commission>
+                            </bill>                            
+                        <bill id="1274157844">
+                                <name>Київстар</name>
+                                <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
+                                <attribute1 />
+                                <bill_attribute1 />
+                                <attribute2 title="Номер квитанцii Київстар"></attribute2>
+                                <bill_attribute2 />
+                                <attribute3 />
+                                <bill_attribute3 />
+                                <attribute4 />
+                                <bill_attribute4 />
+                                <status>PAYED</status>
+                                <paidAmount>100.00</paidAmount>
+                                <payDate>21.06.2022 16:30:35</payDate>
+                                <transaction_id />
+                                <payee_export_date />
+                                <payee_export_flag>12345</payee_export_flag>
+                                <bank_commission>-0.50</bank_commission>
+                            </bill>                            
+                        <bill id="1274172862">
+                                <name>Київстар</name>
+                                <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
+                                <attribute1 />
+                                <bill_attribute1 />
+                                <attribute2 title="Номер квитанцii Київстар"></attribute2>
+                                <bill_attribute2 />
+                                <attribute3 />
+                                <bill_attribute3 />
+                                <attribute4 />
+                                <bill_attribute4 />
+                                <status>canceled</status>
+                                <paidAmount>100.00</paidAmount>
+                                <payDate>21.06.2022 16:30:35</payDate>
+                                <transaction_id />
+                                <payee_export_date />
+                                <payee_export_flag>12345</payee_export_flag>
+                                <bank_commission>-0.50</bank_commission>
+                            </bill>                            
+                        <bill id="1281568516">
+                                <name>Київстар</name>
+                                <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
+                                <attribute1 />
+                                <bill_attribute1 />
+                                <attribute2 title="Номер квитанцii Київстар"></attribute2>
+                                <bill_attribute2 />
+                                <attribute3 />
+                                <bill_attribute3 />
+                                <attribute4 />
+                                <bill_attribute4 />
+                                <status>PAYED</status>
+                                <paidAmount>100.00</paidAmount>
+                                <payDate>21.06.2022 16:30:35</payDate>
+                                <transaction_id />
+                                <payee_export_date />
+                                <payee_export_flag>12345</payee_export_flag>
+                                <bank_commission>-0.50</bank_commission>
+                            </bill>                            
+                        <bill id="1281553191">
+                                <name>Київстар</name>
+                                <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
+                                <attribute1 />
+                                <bill_attribute1 />
+                                <attribute2 title="Номер квитанцii Київстар"></attribute2>
+                                <bill_attribute2 />
+                                <attribute3 />
+                                <bill_attribute3 />
+                                <attribute4 />
+                                <bill_attribute4 />
+                                <status>RETURN</status>
+                                <paidAmount>100.00</paidAmount>
+                                <payDate>21.06.2022 16:30:35</payDate>
+                                <transaction_id />
+                                <payee_export_date />
+                                <payee_export_flag>12345</payee_export_flag>
+                                <bank_commission>-0.50</bank_commission>
+                            </bill>                            
+                        <bill id="1281553634">
+                                <name>Київстар</name>
+                                <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
+                                <attribute1 />
+                                <bill_attribute1 />
+                                <attribute2 title="Номер квитанцii Київстар"></attribute2>
+                                <bill_attribute2 />
+                                <attribute3 />
+                                <bill_attribute3 />
+                                <attribute4 />
+                                <bill_attribute4 />
+                                <status>created</status>
+                                <paidAmount>100.00</paidAmount>
+                                <payDate>21.06.2022 16:30:35</payDate>
+                                <transaction_id />
+                                <payee_export_date />
+                                <payee_export_flag>12345</payee_export_flag>
+                                <bank_commission>-0.50</bank_commission>
+                            </bill>                            
+                        <bill id="1281553329">
+                                <name>Київстар</name>
+                                <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
+                                <attribute1 />
+                                <bill_attribute1 />
+                                <attribute2 title="Номер квитанцii Київстар"></attribute2>
+                                <bill_attribute2 />
+                                <attribute3 />
+                                <bill_attribute3 />
+                                <attribute4 />
+                                <bill_attribute4 />
+                                <status>PAYED</status>
+                                <paidAmount>100.00</paidAmount>
+                                <payDate>21.06.2022 16:30:35</payDate>
+                                <transaction_id />
+                                <payee_export_date />
+                                <payee_export_flag>12345</payee_export_flag>
+                                <bank_commission>-0.50</bank_commission>
+                            </bill>                            
+                        <bill id="1281552948">
+                                <name>Київстар</name>
+                                <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
+                                <attribute1 />
+                                <bill_attribute1 />
+                                <attribute2 title="Номер квитанцii Київстар"></attribute2>
+                                <bill_attribute2 />
+                                <attribute3 />
+                                <bill_attribute3 />
+                                <attribute4 />
+                                <bill_attribute4 />
+                                <status>PAYED</status>
+                                <paidAmount>100.00</paidAmount>
+                                <payDate>21.06.2022 16:30:35</payDate>
+                                <transaction_id />
+                                <payee_export_date />
+                                <payee_export_flag>12345</payee_export_flag>
+                                <bank_commission>-0.50</bank_commission>
+                            </bill>                            
+                        <bill id="1281559850">
+                                <name>Київстар</name>
+                                <contractNumber title="Номер телефону (без +380) ">958779322</contractNumber>
+                                <attribute1 />
+                                <bill_attribute1 />
+                                <attribute2 title="Номер квитанцii Київстар"></attribute2>
+                                <bill_attribute2 />
+                                <attribute3 />
+                                <bill_attribute3 />
+                                <attribute4 />
+                                <bill_attribute4 />
+                                <status>PAYED</status>
                                 <paidAmount>100.00</paidAmount>
                                 <payDate>21.06.2022 16:30:35</payDate>
                                 <transaction_id />
