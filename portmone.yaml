@@ -19,6 +19,8 @@ paths:
         - examples:
             bills.createByPhone:
               value: bills.createByPhone
+            bills.create:
+              value: bills.create
             bills.pay:
               value: bills.pay
             bills.get:
@@ -38,6 +40,12 @@ paths:
           content:
             application/xml:
               examples:
+                bills.create:
+                 value: |-
+                    <?xml version="1.0" encoding="utf-8"?>
+                    <rsp status="fail">
+                        <error code="p001">Помилка 234567890</error>
+                    </rsp>
                 bills.createByPhone:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
