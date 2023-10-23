@@ -44,7 +44,7 @@ paths:
                  value: |-
                     <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="fail">
-                        <error code="p001">Помилка 234567890</error>
+                        <error code="o001">Помилка 01</error>
                     </rsp>
                 bills.createByPhone:
                   value: |-
@@ -79,7 +79,7 @@ paths:
                   value: |-
                     <?xml version="1.0" encoding="utf-8"?>
                     <rsp status="fail">
-                        <error code="p009">Помилка при оновленні параметрів лічильника</error>
+                        <error code="o003">Помилка при оновленні параметрів лічильника</error>
                     </rsp>
                 bills.get:
                   value: |-
